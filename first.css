@@ -1,0 +1,77 @@
+.main{
+    position: relative;
+    top: 50px;
+}
+.content{
+    position: absolute;
+    top: 5%;
+    left: 30%;
+    text-align: center;
+    color: white;
+    margin: 10px;
+    padding: 15px;
+}
+.aa{
+    background-color: black;
+    border-radius: 10px;
+}
+.con{
+    text-align: center;
+}
+.ca{
+    text-align: center;
+}
+.cb{
+    text-align: center;
+}
+.ss{
+    text-align: center;
+}
+.sa{
+    margin-top: 10px;
+}
+.ab{
+    margin-top: 30px;
+    background-color: black;
+}
+
+.ac{
+    text-align: center;
+    font-size: 25px;
+    color: white;
+}
+.ae{
+    text-align: center;
+    font-size: 25px;
+    color: white;
+}
+.dd{
+    text-align: center;
+}
+.kk{
+    text-align: center;
+    color: white;
+}
+.he{
+   font-size: 40px;
+   color: white;
+
+}
+.kkk i{
+    
+    margin: 20px;
+}
+.mm{
+    margin-top: 7px;
+    background-color: chartreuse;
+}
+.mmm{
+    text-align: center;
+}
+.abc:hover{
+transform: scale(1.3);
+z-index: 2;
+}
+.abc{
+    transition: 1s;
+}
